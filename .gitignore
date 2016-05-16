@@ -1,6 +1,8 @@
 # PDF parsing
 *.pdf
-*.txt
+pages/*
+tables/*
+treasure-tables.txt
 
 # Compiled Lua sources
 luac.out
